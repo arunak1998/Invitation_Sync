@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Invitation Card",
+  "description": "A premium, Apple-inspired thoughtful and playful digital invitation card with glassmorphism, animated transitions, and interactive steps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
